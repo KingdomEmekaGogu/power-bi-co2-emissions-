@@ -1,0 +1,4 @@
+*.backup
+*.pbix.lock
+*.tmp
+.DS_Store
