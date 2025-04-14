@@ -28,7 +28,7 @@ This Power BI dashboard analyzes **CO2 emissions trends across countries and yea
    - Designed interactive visuals (slicers, tooltips).  
 
 ## 📸 Screenshots  
-![Dashboard Preview](/images/IMG_1919.jpeg) 
+![Dashboard Preview](/IMG_1919.jpeg) 
 
 ## 💡 Insights  
 - **Top 3 Improving Countries**: [Country A, B, C] (reduced emissions by X%).  
